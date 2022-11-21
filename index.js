@@ -1,0 +1,1 @@
+//keyWord <variableName> = </value>
